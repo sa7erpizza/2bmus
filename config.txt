@@ -1,5 +1,5 @@
-owner=516473846983950336
-prefix=1
+owner=436868598300934146
+prefix=$
 game=play
 stayinchannel=true
 songinstatus=false
